@@ -3,7 +3,7 @@
 public class Day1
 {
 
-    private const string File = "C:/Personal/AdventOfCode/AdventOfCode/AdventOfCode/Day1/Day1_1_input.txt";
+    private const string File = "../../../Day1/Day1_1_input.txt";
 
     public void Challenge1()
     {

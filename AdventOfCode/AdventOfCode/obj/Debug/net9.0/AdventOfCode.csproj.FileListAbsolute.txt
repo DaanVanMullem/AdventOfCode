@@ -13,3 +13,18 @@ C:\Personal\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\net9.0\refint\Adven
 C:\Personal\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\net9.0\AdventOfCode.pdb
 C:\Personal\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\net9.0\AdventOfCode.genruntimeconfig.cache
 C:\Personal\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\net9.0\ref\AdventOfCode.dll
+E:\Personal Coding Projects\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\net9.0\AdventOfCode.exe
+E:\Personal Coding Projects\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\net9.0\AdventOfCode.deps.json
+E:\Personal Coding Projects\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\net9.0\AdventOfCode.runtimeconfig.json
+E:\Personal Coding Projects\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\net9.0\AdventOfCode.dll
+E:\Personal Coding Projects\AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\net9.0\AdventOfCode.pdb
+E:\Personal Coding Projects\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\net9.0\AdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal Coding Projects\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\net9.0\AdventOfCode.AssemblyInfoInputs.cache
+E:\Personal Coding Projects\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\net9.0\AdventOfCode.AssemblyInfo.cs
+E:\Personal Coding Projects\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\net9.0\AdventOfCode.csproj.CoreCompileInputs.cache
+E:\Personal Coding Projects\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\net9.0\AdventOfCode.sourcelink.json
+E:\Personal Coding Projects\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\net9.0\AdventOfCode.dll
+E:\Personal Coding Projects\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\net9.0\refint\AdventOfCode.dll
+E:\Personal Coding Projects\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\net9.0\AdventOfCode.pdb
+E:\Personal Coding Projects\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\net9.0\AdventOfCode.genruntimeconfig.cache
+E:\Personal Coding Projects\AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\net9.0\ref\AdventOfCode.dll

@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Personal\\AdventOfCode\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj": {}
+    "E:\\Personal Coding Projects\\AdventOfCode\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj": {}
   },
   "projects": {
-    "C:\\Personal\\AdventOfCode\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj": {
+    "E:\\Personal Coding Projects\\AdventOfCode\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Personal\\AdventOfCode\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj",
+        "projectUniqueName": "E:\\Personal Coding Projects\\AdventOfCode\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj",
         "projectName": "AdventOfCode",
-        "projectPath": "C:\\Personal\\AdventOfCode\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj",
-        "packagesPath": "C:\\Users\\id100323\\.nuget\\packages\\",
-        "outputPath": "C:\\Personal\\AdventOfCode\\AdventOfCode\\AdventOfCode\\obj\\",
+        "projectPath": "E:\\Personal Coding Projects\\AdventOfCode\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj",
+        "packagesPath": "C:\\Users\\daana\\.nuget\\packages\\",
+        "outputPath": "E:\\Personal Coding Projects\\AdventOfCode\\AdventOfCode\\AdventOfCode\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "C:\\Users\\id100323\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\daana\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\id100323\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

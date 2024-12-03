@@ -3,7 +3,7 @@ using System;
 
 public class Day2
 {
-    private const string File = "C:/Personal/AdventOfCode/AdventOfCode/AdventOfCode/Day2/Day2_input.txt";
+    private const string File = "../../../Day2/Day2_input.txt";
 
     public void Challenge1()
     {
@@ -29,8 +29,6 @@ public class Day2
                     ascending = (input[i][j+1] > prevValue);
                     continue;
                 }
-
-                var test = input[i][j];
                 if (ascending)
                 {
                     if (input[i][j] > prevValue && (input[i][j] - prevValue) <= 3)
@@ -57,7 +55,18 @@ public class Day2
 
     public void Challenge2()
     {
-        
+        int[][] input = System.IO.File.ReadLines(File).Select(n => Array.ConvertAll(n.Split(' '), int.Parse)).ToArray();
+        int safeCount = 0;
+
+        for (int i = 0; i < input.Length; i++)
+        {
+            for (int j = 0; j < input[i].Length; j++)
+            {
+                j - 1;
+                j + 1;
+                
+            }
+        }
     }
     
 }
