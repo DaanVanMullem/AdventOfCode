@@ -8,20 +8,20 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\daana\\.nuget\\packages\\": {}
+    "C:\\Users\\id100323\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Personal Coding Projects\\AdventOfCode\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj",
+      "projectUniqueName": "C:\\Personal\\AdventOfCode\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj",
       "projectName": "AdventOfCode",
-      "projectPath": "E:\\Personal Coding Projects\\AdventOfCode\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj",
-      "packagesPath": "C:\\Users\\daana\\.nuget\\packages\\",
-      "outputPath": "E:\\Personal Coding Projects\\AdventOfCode\\AdventOfCode\\AdventOfCode\\obj\\",
+      "projectPath": "C:\\Personal\\AdventOfCode\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj",
+      "packagesPath": "C:\\Users\\id100323\\.nuget\\packages\\",
+      "outputPath": "C:\\Personal\\AdventOfCode\\AdventOfCode\\AdventOfCode\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
-        "C:\\Users\\daana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\id100323\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\id100323\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
